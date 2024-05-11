@@ -17,9 +17,6 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <style scoped>
-.container {
-  margin: 0 20px;
-}
 header {
   margin: 3px 40px;
   a {
