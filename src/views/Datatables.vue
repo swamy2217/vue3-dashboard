@@ -116,7 +116,7 @@ export default {
                 </option>
             </select>
         </div>
-        <div class="filter-buttons">
+        <div class="filter-buttons d-flex">
             <button type="button" class="btn-space btn btn-primary btn-sm" @click="getData()">Scan</button>
             <button type="button" class="btn btn-danger btn-sm" @click="getData()">PII Scan</button>
         </div>
